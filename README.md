@@ -12,4 +12,5 @@ https://github.com/Parthkhadse/Background-Subtraction-from-videos-using-Extended
 
 https://github.com/Parthkhadse/Background-Subtraction-from-videos-using-Extended-Scale-Local-Binary-Patterns/assets/34748182/ac38c97d-ce9e-452b-a778-663d74be8da9
 
-[![Watch the video](https://img.youtube.com/vi/hSbhdRsZMsw/hqdefault.jpg)](https://www.youtube.com/embed/hSbhdRsZMsw)
+[<img src="https://img.youtube.com/vi/hSbhdRsZMsw/hqdefault.jpg" width="600" height="300"/>](https://www.youtube.com/embed/hSbhdRsZMsw)
+
